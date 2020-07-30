@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="entry">ВХОД</string>
+    <string name="name">Имя</string>
+    <string name="email">Почта</string>
+    <string name="password">Пароль</string>
+    <string name="repeat_password">Повторить пароль</string>
+    <string name="OK">OK</string>
+    <string name="back">Назад</string>
+</resources>
