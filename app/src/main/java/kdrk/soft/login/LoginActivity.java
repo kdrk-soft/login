@@ -33,8 +33,8 @@ public class LoginActivity extends Activity {
         if(!etPassword.getText().toString().equals("") && etPassword.getText().toString().equals(etRpassword.getText().toString())) {
             Intent i = new Intent(LoginActivity.this, ProfileActivity.class);
             i.putExtra("etName", etName.getText().toString());
-           // i.putExtra("etEmail", etEmail.getText().toString());
-           // i.putExtra("etPassword", etPassword.getText().toString());
+            i.putExtra("etEmail", etEmail.getText().toString());
+            i.putExtra("etPassword", etPassword.getText().toString());
             startActivity(i);
 
         }

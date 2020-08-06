@@ -7,4 +7,9 @@
     <string name="repeat_password">Повторить пароль</string>
     <string name="OK">OK</string>
     <string name="back">Назад</string>
+    <string name="plus">Плюс 1</string>
+    <string name="hide">скрыть список</string>
+    <string name="show">показать список</string>
+    <string name="generate">Сгенерировать пароли</string>
+    <string name="exit">Выход</string>
 </resources>
